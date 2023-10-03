@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hamza-app.React/static/css/main.e6c13ad2.css",
+    "main.js": "/hamza-app.React/static/js/main.7e1e7ea1.js",
+    "static/js/787.83f6c5ca.chunk.js": "/hamza-app.React/static/js/787.83f6c5ca.chunk.js",
+    "index.html": "/hamza-app.React/index.html",
+    "main.e6c13ad2.css.map": "/hamza-app.React/static/css/main.e6c13ad2.css.map",
+    "main.7e1e7ea1.js.map": "/hamza-app.React/static/js/main.7e1e7ea1.js.map",
+    "787.83f6c5ca.chunk.js.map": "/hamza-app.React/static/js/787.83f6c5ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7e1e7ea1.js"
+  ]
+}
